@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Initial commit: Java app + Dockerfile + Jenkinsfile"
+git branch -M main
+git remote add origin https://github.com/aaryank007/your-java-app.git
+git push -u origin main
